@@ -76,7 +76,7 @@ src/
 
 ## API
 
-The application uses the [Random User API](https://randomuser.me/) to fetch user data:
+The application uses the [Random User API](https://randomuser.me/api/?page=1&results=1&seed=abc) to fetch user data:
 - Endpoint: `https://randomuser.me/api/?page=1&results=1&seed=abc`
 - The seed parameter ensures consistent data across refreshes
 
@@ -94,4 +94,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Live Demo
 
-Visit the live demo: [Random User Profile Card](https://splendorous-strudel-b7d8b4.netlify.app)
+Visit the live demo: [Random User Profile Card](https://internshalacardassignment.netlify.app)
